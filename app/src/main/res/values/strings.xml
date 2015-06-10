@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SlideShare</string>
+    <string name="action_settings">SlideShare</string>
+    <string name="search_lang">ja</string>
+
+    <string name="api_key">api_key</string>
+    <string name="api_secret_key">api_secret_key</string>
+
+    <string name="api_url_search">https://www.slideshare.net/api/2/search_slideshows</string>
+    <string name="api_url_get">https://www.slideshare.net/api/2/get_slideshow</string>
+
+</resources>
